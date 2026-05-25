@@ -1,2 +1,2 @@
-# My Mock App
+# App
 Run `npm install` then `npm start`.
