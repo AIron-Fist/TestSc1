@@ -1,3 +1,4 @@
+// Compliant
 require('dotenv').config();
 
 const DEFAULT_NODE_ENV = 'development';
