@@ -15,7 +15,6 @@ This release introduces a small Node.js app focused on safe startup behavior, pr
 
 - Improved handling for missing environment configuration so the app can start predictably in local development.
 - Kept sensitive environment files out of the public project configuration.
-- Added compliance markers across core project files.
 
 ### Testing
 
