@@ -1,0 +1,60 @@
+{
+  "documentType": "",
+  "sourceFile": {
+    "title": ""
+  },
+  "employer": {
+    "name": "",
+    "address": {
+      "line1": "",
+      "line2": "",
+      "city": "",
+      "state": "",
+      "postalCode": "",
+      "country": ""
+    }
+  },
+  "employee": {
+    "name": "",
+    "employeeId": "",
+    "designation": "",
+    "department": ""
+  },
+  "payStatement": {
+    "payDate": "",
+    "payPeriod": {
+      "startDate": "",
+      "endDate": ""
+    },
+    "taxCodeOrReference": "",
+    "paymentMethod": "",
+    "currency": ""
+  },
+  "earnings": [
+    {
+      "description": "",
+      "amount": null
+    }
+  ],
+  "deductions": [
+    {
+      "description": "",
+      "amount": null
+    }
+  ],
+  "totals": {
+    "totalEarnings": null,
+    "totalDeductions": null,
+    "netPay": null
+  },
+  "yearToDateSummary": {
+    "gross": null,
+    "federalTax": null,
+    "netPay": null,
+    "stateTax": null
+  },
+  "footer": {
+    "classification": "",
+    "usageNote": ""
+  }
+}
